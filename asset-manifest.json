@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://luigicleffi.github.io/csb-w804b/static/css/main.a9089c74.chunk.css",
+    "main.js": "https://luigicleffi.github.io/csb-w804b/static/js/main.d8e543b2.chunk.js",
+    "main.js.map": "https://luigicleffi.github.io/csb-w804b/static/js/main.d8e543b2.chunk.js.map",
+    "runtime~main.js": "https://luigicleffi.github.io/csb-w804b/static/js/runtime~main.8edddc90.js",
+    "runtime~main.js.map": "https://luigicleffi.github.io/csb-w804b/static/js/runtime~main.8edddc90.js.map",
+    "static/js/2.186c7d2e.chunk.js": "https://luigicleffi.github.io/csb-w804b/static/js/2.186c7d2e.chunk.js",
+    "static/js/2.186c7d2e.chunk.js.map": "https://luigicleffi.github.io/csb-w804b/static/js/2.186c7d2e.chunk.js.map",
+    "index.html": "https://luigicleffi.github.io/csb-w804b/index.html",
+    "precache-manifest.4adef833d1b1b1c5214f92201db17023.js": "https://luigicleffi.github.io/csb-w804b/precache-manifest.4adef833d1b1b1c5214f92201db17023.js",
+    "service-worker.js": "https://luigicleffi.github.io/csb-w804b/service-worker.js",
+    "static/css/main.a9089c74.chunk.css.map": "https://luigicleffi.github.io/csb-w804b/static/css/main.a9089c74.chunk.css.map"
+  }
+}
